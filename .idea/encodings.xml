@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/sdumsc/course201907/controller/CalculateController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/sdumsc/course201907/controller/GraphicsController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/sdumsc/course201907/runtime/Runtime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/sdumsc/course201907/ui/components/Label.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/sdumsc/course201907/ui/components/Window.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/sdumsc/course201907/ui/interfaces/Decorated.java" charset="GBK" />
+  </component>
+</project>
